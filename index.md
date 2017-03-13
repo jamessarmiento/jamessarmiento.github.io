@@ -1,6 +1,6 @@
 ---
-title: Hello world!
+title: Hi
 template: home
 ---
 
-How does this work.
+How does this work?
